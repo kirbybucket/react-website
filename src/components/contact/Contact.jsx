@@ -28,9 +28,9 @@ const Contact = () => {
                             <i className="bx bx-mail-send contact__card-icon"></i>
 
                             <h3 className="contact__card-title">Email</h3>
-                            <span className="contact__card-data">user@gmail.com</span>
+                            <span className="contact__card-data">haroldmoncada.contact@gmail.com</span>
 
-                            <a href="mailto:exampemail@gmail.com.com" className="contact__button">
+                            <a href="mailto:haroldmoncada.contact@gmail.com" className="contact__button">
                                 Write me
                                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                             </a>
@@ -40,21 +40,21 @@ const Contact = () => {
                             <i className="bx bxl-whatsapp contact__card-icon"></i>
 
                             <h3 className="contact__card-title">WhatsApp</h3>
-                            <span className="contact__card-data">999-888-777</span>
+                            <span className="contact__card-data">+591 754 XXXXX</span>
 
-                            <a href="https://api.whatsapp.com/send?phone=62214408789&text=Hello, more information!" className="contact__button">
+                            <a href="https://api.whatsapp.com/send?phone=00000000&text=Hello, more information!" className="contact__button">
                                 Write me
                                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                             </a>
                         </div>
 
                         <div className="contact__card">
-                            <i className="bx bxl-messenger contact__card-icon"></i>
+                            <i className="bx bxl-telegram contact__card-icon"></i>
 
-                            <h3 className="contact__card-title">Messenger</h3>
-                            <span className="contact__card-data">user.fb123</span>
+                            <h3 className="contact__card-title">Telegram</h3>
+                            <span className="contact__card-data">@KirbyBucket</span>
 
-                            <a href="https://m.me/crypticalcoder" className="contact__button">
+                            <a href="https://t.me/KirbyBucket" className="contact__button">
                                 Write me
                                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                             </a>
