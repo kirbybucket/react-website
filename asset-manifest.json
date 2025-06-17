@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.9437e94c.css",
-    "main.js": "/static/js/main.6bccf920.js",
-    "static/media/profile.jpg": "/static/media/profile.01418214281c985a42bb.jpg",
-    "static/media/about.jpg": "/static/media/about.25037666cca34f8f569a.jpg",
+    "main.css": "/static/css/main.5ff3b399.css",
+    "main.js": "/static/js/main.61c9bb86.js",
+    "static/media/package-tracker.gif": "/static/media/package-tracker.959e7026a9e2bbf9d76b.gif",
+    "static/media/profile.jpg": "/static/media/profile.bf20aa08b6cb2884498f.jpg",
+    "static/media/flutter-store.jpg": "/static/media/flutter-store.64937e0dfc4439989399.jpg",
     "static/media/testimonial3.png": "/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
-    "static/media/work2.jpg": "/static/media/work2.e52a0c2981a6c11ba468.jpg",
     "static/media/testimonial2.png": "/static/media/testimonial2.39a53f7f092f07f5bceb.png",
     "static/media/work4.jpg": "/static/media/work4.aee985961b648f4df1f2.jpg",
     "static/media/work5.jpg": "/static/media/work5.094ec4a2224db8908873.jpg",
-    "static/media/work1.jpg": "/static/media/work1.321b4ae3bf404acdfdc6.jpg",
     "static/media/work3.jpg": "/static/media/work3.135e9065694bc13dc31d.jpg",
+    "static/media/about.jpg": "/static/media/about.2577c162e1f3c34e90ac.jpg",
     "static/media/testimonial1.png": "/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "static/media/John-Cv.pdf": "/static/media/John-Cv.e83747cf513e0b21a7f1.pdf",
     "index.html": "/index.html",
-    "main.9437e94c.css.map": "/static/css/main.9437e94c.css.map",
-    "main.6bccf920.js.map": "/static/js/main.6bccf920.js.map"
+    "main.5ff3b399.css.map": "/static/css/main.5ff3b399.css.map",
+    "main.61c9bb86.js.map": "/static/js/main.61c9bb86.js.map"
   },
   "entrypoints": [
-    "static/css/main.9437e94c.css",
-    "static/js/main.6bccf920.js"
+    "static/css/main.5ff3b399.css",
+    "static/js/main.61c9bb86.js"
   ]
 }
